@@ -1,0 +1,5 @@
+setup.py
+PythonSharp.egg-info/PKG-INFO
+PythonSharp.egg-info/SOURCES.txt
+PythonSharp.egg-info/dependency_links.txt
+PythonSharp.egg-info/top_level.txt
